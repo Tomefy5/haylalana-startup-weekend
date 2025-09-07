@@ -29,11 +29,7 @@ const Index = () => {
               Nous transformons les lois et procédures en guides pratiques et accessibles 
               en malgache et français. Contenus courts, orientation vers aide juridique pro-bono.
             </p>
-            <Link to="/activities">
-              <Button variant="hero" size="xl" className="animate-slide-up">
-                Accéder à la plateforme
-              </Button>
-            </Link>
+           // BTN
           </div>
         </div>
         <div className="absolute inset-0 bg-black/10"></div>
